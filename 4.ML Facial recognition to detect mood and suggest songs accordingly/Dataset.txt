@@ -1,0 +1,3 @@
+Dataset Link:https://www.kaggle.com/datasets/msambare/fer2013
+
+Note:Data set contains only test and train folders which included images inside.You need to add songs folder separately.
